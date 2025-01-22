@@ -23,7 +23,7 @@ Here are the methods to set it up for yourself.
 
 - Netlify Deploy
 
-  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AnshumanMahato/Happy-Birthday-Card)
+  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Majeed-GitHub/Birthday-wish)
 
 Remote deployment will require you to specify some mandatory Evironment Variables,
 
@@ -38,7 +38,7 @@ To know more about the environment variables, check [References](#references).
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/AnshumanMahato/Happy-Birthday-Card
+   git clone https://github.com/Majeed-GitHub/Birthday-wish
    ```
 
 2. Install dependencies
@@ -86,6 +86,6 @@ If you have any queries or need some help in deployment, you may contact me here
 <a href="https://t.me/AnshumanMahato"><img src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" height="50px"></a>
 <a href="mailto:rcoder.bytes@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" height="50px"></a>
 
-Made with 💖 by Anshuman Mahato
+Made with 💖 by Majeed Shaik
 
 </div>
